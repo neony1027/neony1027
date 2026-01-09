@@ -19,6 +19,6 @@
 name: 김강민
 username: YOUR_USERNAME
 role: Student / Developer
-interests:
-learning:
+interests: Music
+learning: Swift, C, Js, Java, Python
 motto: "아직 어브슴"
