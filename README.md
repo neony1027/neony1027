@@ -21,4 +21,4 @@ username: neony1027
 role: Student
 interests: Music
 learning: Swift, C, Js, Java, Python
-motto: "아직 어브슴"
+motto: "Simple is the Best"
