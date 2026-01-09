@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/neony1027">
     <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white"/>
   </a>
   <a href="https://neony.kr">
@@ -17,8 +17,8 @@
 
 ```yaml
 name: 김강민
-username: YOUR_USERNAME
-role: Student / Developer
+username: neony1027
+role: Student
 interests: Music
 learning: Swift, C, Js, Java, Python
 motto: "아직 어브슴"
