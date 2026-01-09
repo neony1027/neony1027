@@ -20,11 +20,5 @@ name: 김강민
 username: YOUR_USERNAME
 role: Student / Developer
 interests:
-  - Game Development (Unity, C#)
-  - App Development (Flutter, Firebase)
-  - Backend (Spring Boot)
 learning:
-  - Clean Code
-  - Game Physics
-  - Scalable Backend Architecture
-motto: "기능보다 완성도, 속도보다 구조"
+motto: "아직 어브슴"
