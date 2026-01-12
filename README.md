@@ -10,8 +10,6 @@
     <img src="https://img.shields.io/badge/Portfolio-111111?style=flat&logo=vercel&logoColor=white"/>
   </a>
 </p>
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,wasm)
----
 
 ## 🐋 About Me
 
